@@ -4,7 +4,7 @@
 
 typedef struct {
     char *name;
-    int marks;
+    int marks; 
 } Student;
 
 int main() {
