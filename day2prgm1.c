@@ -20,7 +20,7 @@ int main() {
         return 1; 
     }
 
-    long long result = factorial(num);
+    long result = factorial(num);
 
     if (result == -1) {
         return 1; 
